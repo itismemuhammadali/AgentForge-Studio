@@ -1,5 +1,9 @@
 # 🤖 AgentForge Studio
 
+<p align="center">
+  <img src="assets/branding/logo.jpg" alt="AgentForge Studio Logo" width="180" style="border-radius: 24px; box-shadow: 0 8px 32px rgba(138, 43, 226, 0.35);" />
+</p>
+
 > **Autonomous AI Agent & Custom Bot Orchestration Studio** built with Flutter & Dart, featuring multi-agent workflow management, model training dashboards, real-time telemetry, and third-party API integration pipelines.
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.9+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
