@@ -1,16 +1,31 @@
-# 🤖 AgentForge Studio
+<div align="center">
 
 <p align="center">
-  <img src="assets/branding/logo.jpg" alt="AgentForge Studio Logo" width="180" style="border-radius: 24px; box-shadow: 0 8px 32px rgba(138, 43, 226, 0.35);" />
+  <img src="assets/branding/hammenga_logo.png" alt="Hammenga Client Production Trademark" width="140" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(37, 99, 235, 0.3); margin: 0 12px;" />
+  <img src="assets/branding/logo.jpg" alt="AgentForge Platform Architectural Logo" width="140" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(138, 43, 226, 0.35); margin: 0 12px;" />
+</p>
+<p align="center">
+  <em>Left: Production Client Mark (<a href="https://www.hammenga.nl" target="_blank">hammenga.nl</a>) &bull; Right: Architectural Platform Identity (AgentForge Studio)</em>
 </p>
 
-> **Autonomous AI Agent & Custom Bot Orchestration Studio** built with Flutter & Dart, featuring multi-agent workflow management, model training dashboards, real-time telemetry, and third-party API integration pipelines.
+# 🤖 AgentForge Studio (Hammenga.nl)
+
+### Autonomous AI Agent & Custom Bot Orchestration Studio
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.9+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Commercial Deployment](https://img.shields.io/badge/Commercial_Deployment-hammenga.nl-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hammenga.nl)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase_Suite-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![State](https://img.shields.io/badge/Architecture-Provider_Pattern-blueviolet?style=for-the-badge)](https://pub.dev/packages/provider)
 [![Analytics](https://img.shields.io/badge/Telemetry-FL_Chart-00B4D8?style=for-the-badge)](https://pub.dev/packages/fl_chart)
+
+</div>
+
+---
+
+## 🌐 Commercial Deployment & Client Provenance
+
+This platform serves as the production AI agent orchestration core and conversational builder engine powering **[Hammenga.nl](https://www.hammenga.nl)**, enabling enterprise clients to configure, train, and deploy intelligent custom bots with live chat widgets and multi-agent workflows.
 
 ---
 
